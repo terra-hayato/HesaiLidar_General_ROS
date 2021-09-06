@@ -1,0 +1,3 @@
+[submodule "HesaiLidar_General_ROS"]
+	path = HesaiLidar_General_ROS
+	url = https://github.com/terra-hayato/HesaiLidar_General_ROS.git
